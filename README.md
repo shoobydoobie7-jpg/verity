@@ -7,4 +7,4 @@ EASTER EGGS
 4. say or type "what time is it" for an easter egg                                                
 
 DO NOT RE UPLOAD EVEN IF YOU MAKE CHANGES
-can answer math questions and do simple searches using duckduckgo browser
+                                             can answer math questions and do simple searches using duckduckgo browser
